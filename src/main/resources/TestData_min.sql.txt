@@ -1,0 +1,6 @@
+insert into USERS (ID, USERNAME) values
+	(1, 'Anuroop'),
+    (2, 'Rhutali'),
+    (3, 'Charu'),
+    (4, 'Ankit'),
+    (5, 'Ashish');
