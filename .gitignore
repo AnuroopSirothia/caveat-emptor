@@ -1,7 +1,7 @@
 # Eclipse generated files.
 .classpath
 .project
-.settings/
+#.settings/
 
 # Maven generated files.
 target/
