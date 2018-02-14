@@ -1,4 +1,4 @@
-package hello;
+package com.anuroop.controller;
 
 public class Greeting {
 
